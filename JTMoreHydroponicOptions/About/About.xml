@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>JTMoreHydroponicOptions</name>
+	<author>Jamestec</author>
+	<targetVersion>0.16.1393</targetVersion>
+	<description>Grow more vanilla stuff in hydroponics (corn, haygrass, devil strand). Hydroponics default is now rice (corn is better if you don't need food right now). Keep in mind devil strand takes a long ass time to grow and solar flares/power failures will kill devil strand growing in hydroponics.</description>
+</ModMetaData>
